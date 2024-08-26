@@ -1,0 +1,11 @@
+{
+    "name": "rwx-reaction",
+    "dev":"rwyn",
+    "version": "1.0.0",
+    "main": "index.js",
+    "dependencies": {
+        "@discordjs/builders": "^1.8.2",
+        "discord.js": "^14.15.3",
+        "dotenv": "^16.4.5"
+    }
+}
